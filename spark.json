@@ -1,0 +1,7 @@
+{
+  "name": "nespad",
+  "author": "Rob Duarte <rahji@rahji.com>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A library for using NES and SNES inputs with Arduino. Original code: https://code.google.com/archive/p/nespad/"
+}
